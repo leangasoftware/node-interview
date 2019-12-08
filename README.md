@@ -1,7 +1,10 @@
 # Entrevista NODE
-Bienvenido a tu prueba de Node.js, a continuación encontraras una serie de requerimientos con los cuales deberás realizar un pequeño ejercicio práctico.
 
-La prueba general se divide en pequeños ejercicios con los cuales se evaluara en práctica el pensamiento lógico, resolución de problema, tiempo de desarrollo, entre otros.
+![](https://s3-us-west-2.amazonaws.com/devcodepro/media/tutorials/middlewares-en-nodejs-t1.jpg)
+
+Bienvenido a tu prueba de Node.js, a continuación encontrarás una serie de requerimientos con los cuales deberás realizar un pequeño ejercicio práctico.
+
+La prueba general se divide en pequeños ejercicios con los cuales se evaluará en práctica el pensamiento lógico, resolución de problema, tiempo de desarrollo, entre otros.
 > Recomendación: No importa terminar todos los ejercicios, lo más importante es la funcionalidad del ejercicio resuelto(s).
 
 ### Antes de empezar:
