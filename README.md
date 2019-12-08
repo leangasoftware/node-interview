@@ -10,6 +10,8 @@ La prueba general se divide en pequeños ejercicios con los cuales se evaluará 
 - Tiempo de desarrollo
 - Entre otros.
 
+Finalizada la prueba recuerda enviar link del proyecto o tu repositorio a desarrollo@leangasoftware.es
+
 > __Recomendación:__ No importa terminar todos los ejercicios, lo más importante es la funcionalidad del ejercicio resuelto(s).
 
 ### Antes de empezar:
