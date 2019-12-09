@@ -2,7 +2,7 @@
 
 ![](https://s3-us-west-2.amazonaws.com/devcodepro/media/tutorials/middlewares-en-nodejs-t1.jpg)
 
-Bienvenido a tu prueba de __Node.js__, a continuación encontrarás una serie de requerimientos con los cuales deberás realizar un pequeño ejercicio práctico.
+Bienvenido a tu prueba de __Node.js__, a continuación encontrarás una serie de requerimientos con los cuales deberás realizar un ejercicio práctico.
 
 La prueba general se divide en pequeños ejercicios con los cuales se evaluará en práctica:
 - Pensamiento lógico
